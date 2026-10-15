@@ -31,3 +31,11 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# macOS
+.DS_Store
+
+# Compiled binary (on Mac, Go builds have no file extension)
+/keonsWebsite
+# Markdown files
+/content
